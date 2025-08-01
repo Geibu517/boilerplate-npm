@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
   "author": "Gabriel Tienzo",
   "description": "A project that does something awesome",
   "keywords": [ "freecodecamp", "node", "npm", "express" ],
